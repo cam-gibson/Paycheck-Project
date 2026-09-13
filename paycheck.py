@@ -26,3 +26,6 @@
 # Chapters 1 and 2 only. Use variables, input(), arithmetic, type conversion,
 # and print(). Do not use if statements, loops, functions, or imports.
 # Your code runs top to bottom, once.
+
+employee_name = input("Enter employee name: ")
+hours_worked = float(input("Enter number of hours worked: "))

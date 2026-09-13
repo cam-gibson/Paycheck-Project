@@ -1,5 +1,5 @@
-# Name:
-# Date:
+# Name: Cam Gibson
+# Date: 9/13/26
 # Course: COMP 163
 # Project 1: Paycheck Calculator
 
